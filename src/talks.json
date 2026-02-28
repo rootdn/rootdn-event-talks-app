@@ -1,0 +1,86 @@
+[
+  {
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM",
+    "type": "talk",
+    "title": "Introduction to Modern Web Components",
+    "speakers": ["Alice Johnson"],
+    "categories": ["Web Development", "Frontend"],
+    "description": "Explore the power and flexibility of modern web components for building reusable UI elements."
+  },
+  {
+    "startTime": "11:00 AM",
+    "endTime": "11:10 AM",
+    "type": "break",
+    "title": "Transition Break"
+  },
+  {
+    "startTime": "11:10 AM",
+    "endTime": "12:10 PM",
+    "type": "talk",
+    "title": "Scaling Node.js Applications with Microservices",
+    "speakers": ["Bob Smith", "Carol White"],
+    "categories": ["Backend", "Node.js", "Architecture"],
+    "description": "Learn best practices for designing and scaling Node.js applications using a microservices approach."
+  },
+  {
+    "startTime": "12:10 PM",
+    "endTime": "12:20 PM",
+    "type": "break",
+    "title": "Transition Break"
+  },
+  {
+    "startTime": "12:20 PM",
+    "endTime": "01:20 PM",
+    "type": "talk",
+    "title": "Effective State Management in React",
+    "speakers": ["David Green"],
+    "categories": ["Frontend", "React"],
+    "description": "Dive into various state management patterns and libraries to keep your React applications maintainable."
+  },
+  {
+    "startTime": "01:20 PM",
+    "endTime": "02:20 PM",
+    "type": "break",
+    "title": "Lunch Break"
+  },
+  {
+    "startTime": "02:20 PM",
+    "endTime": "03:20 PM",
+    "type": "talk",
+    "title": "Containerization with Docker and Kubernetes",
+    "speakers": ["Eve Black"],
+    "categories": ["DevOps", "Containers"],
+    "description": "An introduction to Docker and Kubernetes for packaging, deploying, and managing applications."
+  },
+  {
+    "startTime": "03:20 PM",
+    "endTime": "03:30 PM",
+    "type": "break",
+    "title": "Transition Break"
+  },
+  {
+    "startTime": "03:30 PM",
+    "endTime": "04:30 PM",
+    "type": "talk",
+    "title": "Introduction to GraphQL APIs",
+    "speakers": ["Frank Red", "Grace Blue"],
+    "categories": ["API", "Backend"],
+    "description": "Understand the fundamentals of GraphQL and how it differs from traditional REST APIs."
+  },
+  {
+    "startTime": "04:30 PM",
+    "endTime": "04:40 PM",
+    "type": "break",
+    "title": "Transition Break"
+  },
+  {
+    "startTime": "04:40 PM",
+    "endTime": "05:40 PM",
+    "type": "talk",
+    "title": "Performance Optimization for Web Applications",
+    "speakers": ["Heidi Brown"],
+    "categories": ["Web Development", "Performance", "Frontend"],
+    "description": "Techniques and tools to identify and resolve performance bottlenecks in your web applications."
+  }
+]

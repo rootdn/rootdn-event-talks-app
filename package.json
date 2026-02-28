@@ -1,0 +1,12 @@
+{
+  "name": "tech-talks-website",
+  "version": "1.0.0",
+  "description": "A single-page website for a 1-day event with technical talks.",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": ["tech", "talks", "event", "schedule", "website", "serverless"],
+  "author": "Gemini CLI",
+  "license": "MIT"
+}
